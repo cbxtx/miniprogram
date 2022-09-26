@@ -1,0 +1,29 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "Weixin",
+        "navigationBarTextStyle": "black"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json",
+    "tabBar": {
+        "list": [{
+                "pagePath": "pages/index/index",
+                "text": "主页面",
+                "iconPath": "images/alipay.png",
+                "selectedIconPath": "images/icon-test.png"
+            },
+            {
+                "pagePath": "pages/logs/logs",
+                "text": "主页面",
+                "iconPath": "images/icon-test_1.png",
+                "selectedIconPath": "images/icon-test_2.png"
+            }
+        ]
+    }
+}
