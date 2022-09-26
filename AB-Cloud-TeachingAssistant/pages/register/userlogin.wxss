@@ -1,0 +1,11 @@
+/* pages/register/userlogin.wxss */
+.usermotto {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.userInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
